@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter+Brush&family=Open+Sans:ital,wght@1,300&display=swap');
+
+.maincss{
+    background-image: url('https://media.istockphoto.com/photos/blue-shaded-background-picture-id1273576812?b=1&k=20&m=1273576812&s=170667a&w=0&h=IWQNtSb0V9MKQEY9Wvdzdo2-VQ2F2pDAA2sSwqaGCUY=');
+    
+    background-size:cover;
+  }
+  .oil{
+    margin-left: -60%;
+    font-weight: 2px;
+    font-family: 'Comforter Brush', cursive;
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 5%;
+  }
+  .container{
+    position:absolute;
+    height: 87.8%;
+    width: 90%;
+    border-radius: 15px;
+    margin-left: 30px;
+    
+    padding: 2.5rem;
+    border-radius: 15px;
+    
+  }
+  .left{
+    background-image:url('https://images.unsplash.com/photo-1586364210803-e03007959341?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjQwfHxob3QlMjBhaXIlMjBiYWxsb29ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60');
+    height: 100%;
+    width:70%;
+    float: left;
+
+  }
+  .writing{
+    float: right;
+    background-color: rgba(52, 138, 195, 0.493);
+    width: 30%;
+    height: 100%;
+  }
+  .boss{
+    display: flex;
+    flex-wrap: wrap;
+    font-style: unset;
+    font-family: 'Comforter Brush', cursive;
+    font-family: 'Open Sans', sans-serif;
+    
+  }
+  .boss>* {
+    flex: 1 5px;
+}
+.benks{
+  size: 0.5px;
+ margin-left: -20%;
+ padding-top: 35%;
+ color: whitesmoke;
+}
+  .temp{
+    padding-top: 25%;
+    font-size: 110px;
+    font-weight: 10px;
+    margin-left: 10%;
+    color: white;
+  }
+  .ask{
+    margin-left:-11%;
+    padding-top: 33%;
+    font-size:20px;
+    color: whitesmoke;
+  }
+  
+
+ 
+  .results{
+    padding-top: 50%;
+    color: rgb(207, 223, 230);
+    font-weight: 2px;
+  }

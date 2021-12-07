@@ -1,0 +1,29 @@
+:root{
+    --light:rgb(110, 190, 236);
+}
+.homecss{
+    background-size: cover;
+}
+.body{ 
+    background-image:url('https://media.istockphoto.com/photos/citrus-leaves-with-drops-isolated-on-a-white-background-picture-id457069597?b=1&k=20&m=457069597&s=170667a&w=0&h=y1unulOMOPSx1BEK2kXodj3d17HlFrvartHUTj9N3iw=');
+    background-position: center;
+    background-size:cover;
+}
+
+h1{
+    width: 100%;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.wrapper{
+    height: 100vh;
+    width: 95vh;
+    margin-left: 30%;
+    place-content: center;
+    align-self: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.bott{
+    margin-top: 10%;
+}
